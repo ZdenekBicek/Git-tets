@@ -1,2 +1,2 @@
 testovaci soubor
-zmena 1
+zmeneno
