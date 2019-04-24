@@ -1,7 +1,5 @@
 testovaci soubor
-<<<<<<< HEAD
 zmeneno
 =======
 zmena 1
 zmena 2
->>>>>>> 01c073ba27226db88459917740caff142426dff4
